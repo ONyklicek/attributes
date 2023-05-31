@@ -1,0 +1,10 @@
+/vendor
+composer.phar
+composer.lock
+/.idea
+/.fleet
+/.vscode
+*.php
+.DS_Store
+*.lock
+*.phar
