@@ -9,6 +9,7 @@
       "email": "ondrejnyklicek@icloud.com"
     }
   ],
+  "prefer-stable": true,
   "require": {
     "php": "^8.0"
   },
