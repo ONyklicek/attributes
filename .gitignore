@@ -5,3 +5,6 @@ composer.lock
 /.fleet
 /.vscode
 *.php
+.DS_Store
+.idea/php.xml
+*.xml
