@@ -11,8 +11,9 @@ namespace Attributes;
 
 use Attribute;
 
+/**
+ * @since 8.0
+ */
 #[Attribute(Attribute::TARGET_FUNCTION | Attribute::TARGET_METHOD)]
-class Returning
-{
-
+class Returning{
 }
