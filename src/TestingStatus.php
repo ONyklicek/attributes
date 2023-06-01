@@ -7,7 +7,7 @@
  * @IDE     PhpStorm
  */
 
-namespace Attributes;
+namespace ONyklicek\Attributes;
 
 use Attribute;
 
